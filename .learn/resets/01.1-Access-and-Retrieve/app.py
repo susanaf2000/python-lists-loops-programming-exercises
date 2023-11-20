@@ -1,7 +1,7 @@
 
 my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
 
-print(my_list[3])
+# 1. print the item here
 
 # 2. change the position were 'thursday' is to None
 
