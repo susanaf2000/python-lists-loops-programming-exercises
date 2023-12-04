@@ -7,5 +7,3 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 
 
 #Your code go here:
-given_string = list(filter(lambda name: "am" in name.lower(), names))
-print(given_string)
